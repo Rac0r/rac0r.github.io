@@ -1,1 +1,4 @@
-# rac0r.github.io
+# Repo for racor.github.io
+
+Here be personal stuff
+
